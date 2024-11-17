@@ -1,5 +1,7 @@
-This project is a part of the coursework for 2190101 Computer Programming \n
-Semester 1, 2024 \n
+This project is a part of the coursework for 2190101 Computer Programming
+
+Semester 1, 2024 
+
 Chulalongkorn University
 
 video presentation link: [https://github.com/TheeMee/sentiment-analysis.git](https://youtu.be/4DRv66auYmg?feature=shared)
