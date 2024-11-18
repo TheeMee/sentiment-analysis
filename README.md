@@ -8,7 +8,7 @@ Following are links to relevant materials
 
 link to dataset used in this project: https://www.kaggle.com/datasets/kazanova/sentiment140
 
-video presentation link: [[https://github.com/TheeMee/sentiment-analysis.git](https://youtu.be/4DRv66auYmg?feature=shared)
+video presentation link: https://www.youtube.com/watch?v=IodF1_Fgibc
 
 project report: https://drive.google.com/file/d/1orjg2RIDBPIA_MvN1WVj0h1Bl4gspGit/view
 
