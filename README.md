@@ -6,9 +6,9 @@ Chulalongkorn University
 
 Following are links to relevant materials
 
-link to dataset used in this project: https://www.kaggle.com/datasets/kazanova/sentiment140\
+link to dataset used in this project: https://www.kaggle.com/datasets/kazanova/sentiment140
 
-video presentation link: [[https://github.com/TheeMee/sentiment-analysis.git](https://youtu.be/4DRv66auYmg?feature=shared)](https://youtu.be/IodF1_Fgibc?feature=shared)
+video presentation link: [[https://github.com/TheeMee/sentiment-analysis.git](https://youtu.be/4DRv66auYmg?feature=shared)
 
 project report: https://drive.google.com/file/d/1orjg2RIDBPIA_MvN1WVj0h1Bl4gspGit/view
 
